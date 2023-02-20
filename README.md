@@ -4,6 +4,7 @@ This is an API/Backend system using Django to store information that will allow 
 ### Technologies Used
 - Python
 - Django
+- Django REST
 - CORS
 
 ### Models
