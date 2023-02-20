@@ -1,6 +1,10 @@
 # Taste Tracker Backend
-- **Description**: This is an API/Backend system using Django to store information that will allow the user to save any of their favorite restaurants. By using the name, description, and url of any restaurant any user can save their favorite restaurannts.
-- **Technologies used**: Django, Python, CORS
+This is an API/Backend system using Django to store information that will allow the user to save any of their favorite restaurants. By using the name, description, and url of any restaurant any user can save their favorite restaurannts.
+
+### Technologies Used
+- Python
+- Django
+- CORS
 
 ### Models
 ```mermaid
