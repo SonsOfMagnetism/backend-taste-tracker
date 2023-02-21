@@ -5,4 +5,4 @@ from rest_framework import serializers
 class RestaurantSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Restaurant
-        fields = ['id', 'subject', 'details']
+        fields = ['id', 'name', 'description', 'url']
